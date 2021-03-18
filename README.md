@@ -1,5 +1,6 @@
 # NH Training MEAN(MongoDB-Express-NodeJS-AngularJS) Architecture
 MEAN(MongoDB-Express-NodeJS-AngularJS) Architecture REST API
+
 MEAN is an open source JavaScript framework, used for building dynamic websites and web applications. It includes following four building blocks to build an application.
 
 MongoDB − It is a document database, that stores data in flexible, JSON-like documents.
